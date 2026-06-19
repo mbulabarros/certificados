@@ -1,0 +1,30 @@
+{
+  "curso": "AIMED RESIDENTES – GINECOLOGIA E OBSTETRÍCIA",
+  "cracha_label": "AIMED RESIDENTES G.O.",
+  "data_evento": "26 e 27 de junho de 2026",
+  "carga_horaria": "14 horas",
+  "coordenador": "Dr. Mbula Luzingu Barros",
+  "crm": "CRM-SC 8512",
+  "local": "Joinville, SC",
+  "edicao": "2ª Edição",
+  "certificados": {
+    "9B262320CE": {"nome": "Bianca Eing Oening", "hash": "9B262320CE"},
+    "0381AADE96": {"nome": "Carolina Dal Bello Alonso", "hash": "0381AADE96"},
+    "805B9533E4": {"nome": "Manoela Duarte Selbach", "hash": "805B9533E4"},
+    "EC9271C011": {"nome": "Thiago Vieira de Almeida Lima", "hash": "EC9271C011"},
+    "A5CE6B9DE9": {"nome": "Maria Fernanda Mendonça Fontes", "hash": "A5CE6B9DE9"},
+    "A6FD100BBD": {"nome": "Pamela Martarello", "hash": "A6FD100BBD"},
+    "6A3AE8293C": {"nome": "Vitória Dvojatzki", "hash": "6A3AE8293C"},
+    "EA03378676": {"nome": "Luana Lima da Silva", "hash": "EA03378676"},
+    "7AD325817F": {"nome": "Bruna Balestrin", "hash": "7AD325817F"},
+    "E136DEE4AF": {"nome": "Guilherme Schmid Guérios", "hash": "E136DEE4AF"},
+    "73BCB91DEB": {"nome": "Laura Nuernberg", "hash": "73BCB91DEB"},
+    "BFF000D75E": {"nome": "Maria Simone Pan", "hash": "BFF000D75E"},
+    "E7CDF19A5D": {"nome": "Adriana Bitencourt Magagnin", "hash": "E7CDF19A5D"},
+    "8F7B922A0C": {"nome": "Luciana Krause Santana", "hash": "8F7B922A0C"},
+    "6F09C2F097": {"nome": "Rafaela de Campos Benvenutti da Costa", "hash": "6F09C2F097"},
+    "70C47A17AE": {"nome": "Luiza de Sousa Gezak", "hash": "70C47A17AE"},
+    "D5EB229397": {"nome": "Mayja Liza Amaral da Silva Ricardo", "hash": "D5EB229397"},
+    "BBB0DB9A53": {"nome": "Mbula Luzingu Barros", "hash": "BBB0DB9A53"}
+  }
+}
