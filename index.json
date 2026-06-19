@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "instituicao": "INOVAMED",
   "responsavel": "Dr. Mbula Luzingu Barros · CRM-SC 8512",
-  "atualizado_em": "2026-05-21",
+  "atualizado_em": "2026-06-19",
   "edicoes": [
     {
       "id": "2026-04_aimed_joinville",
@@ -17,6 +17,13 @@
       "data_evento": "22 e 23 de maio de 2026",
       "status": "ativo",
       "url_json": "https://raw.githubusercontent.com/mbulabarros/certificados/main/editions/2026-05_aimed_residentes_go.json"
+    },
+    {
+      "id": "2026-06_aimed_residentes_go",
+      "curso": "AIMED RESIDENTES – GINECOLOGIA E OBSTETRÍCIA · 2ª Edição",
+      "data_evento": "26 e 27 de junho de 2026",
+      "status": "ativo",
+      "url_json": "https://raw.githubusercontent.com/mbulabarros/certificados/main/editions/2026-06_aimed_residentes_go.json"
     }
   ]
 }
