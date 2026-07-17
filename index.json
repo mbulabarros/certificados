@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "instituicao": "INOVAMED",
   "responsavel": "Dr. Mbula Luzingu Barros · CRM-SC 8512",
-  "atualizado_em": "2026-06-21",
+  "atualizado_em": "2026-07-17",
   "edicoes": [
     {
       "id": "2026-04_aimed_joinville",
@@ -24,6 +24,13 @@
       "data_evento": "26 e 27 de junho de 2026",
       "status": "ativo",
       "url_json": "https://raw.githubusercontent.com/mbulabarros/certificados/main/editions/2026-06_aimed_residentes_go.json"
+    },
+    {
+      "id": "2026-07_aimed_joinville",
+      "curso": "AIMED – JOINVILLE",
+      "data_evento": "18 e 19 de julho de 2026",
+      "status": "ativo",
+      "url_json": "https://raw.githubusercontent.com/mbulabarros/certificados/main/editions/2026-07_aimed_joinville.json"
     }
   ]
 }
