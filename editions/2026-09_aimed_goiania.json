@@ -1,0 +1,36 @@
+{
+  "curso": "AIMED — GOIÂNIA",
+  "cracha_label": "AIMED GOIÂNIA",
+  "data_evento": "19 e 20 de setembro de 2026",
+  "carga_horaria": "15 horas",
+  "coordenador": "Dr. Mbula Luzingu Barros",
+  "crm": "CRM-SC 8512",
+  "local": "Goiânia, GO",
+  "edicao": "6ª Edição",
+  "certificados": {
+    "56F30CF2D0": {
+      "nome": "Ana Paula Viana de Siqueira",
+      "hash": "56F30CF2D0"
+    },
+    "3D3579BB43": {
+      "nome": "Darlan Oliveira Andrade",
+      "hash": "3D3579BB43"
+    },
+    "7BD8482DB8": {
+      "nome": "Mailza Araújo Costa Rios",
+      "hash": "7BD8482DB8"
+    },
+    "F784864D7D": {
+      "nome": "Cristiane Aparecida Pereira Vaz",
+      "hash": "F784864D7D"
+    },
+    "1357A15F06": {
+      "nome": "Rodrigo Damasceno Martins",
+      "hash": "1357A15F06"
+    },
+    "F48A82A9A9": {
+      "nome": "Mirna de Sousa",
+      "hash": "F48A82A9A9"
+    }
+  }
+}
